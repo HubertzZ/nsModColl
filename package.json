@@ -1,0 +1,13 @@
+{
+  "name": "nsModColl",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2020.1.4",
+    "@types/jquery": "^3.3.35",
+    "@types/node": "^13.13.2",
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "typescript": "^3.8.3"
+  }
+}
