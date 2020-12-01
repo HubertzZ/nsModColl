@@ -206,7 +206,7 @@ export let json2xml = (o) => {
                 xmlNode += (xmlNode.charAt(xmlNode.length-1)=="\n"?ind:"") + "</" + name + ">";
             }
         }
-        else {
+        else if (typeof(v) != "function") { // no function convert
             xmlNode += ind + "<" + name + ">" + v.toString() +  "</" + name + ">";
         }
         return xmlNode;
