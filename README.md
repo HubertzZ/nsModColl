@@ -4,10 +4,12 @@ Easier to build your SuiteScript with NetSuite applicable JavaScript Modules Col
 
 ### List of modules
 
-- oauth1
+- oauth1 [
+  [README](https://github.com/HubertzZ/nsModColl/blob/dev/src/oauth1/README.md)
+  | [LICENSE](https://github.com/HubertzZ/nsModColl/blob/dev/src/oauth1/LICENSE.md)
+  ]
 
-- xml2json
-
-### License
-
-Please check the individual license of each module
+- xml2json [
+  [README](https://github.com/HubertzZ/nsModColl/blob/dev/src/xml2json/README.md)
+  | [LICENSE](https://github.com/HubertzZ/nsModColl/blob/dev/src/xml2json/LICENSE.md)
+  ]
