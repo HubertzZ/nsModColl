@@ -214,4 +214,4 @@ export let json2xml = (o) => {
     for (let m in o)
         xml += toXml(o[m], m, "");
     return xml.replace(/\t|\n/g, "");
-}
+};

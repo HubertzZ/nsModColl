@@ -4,6 +4,8 @@ Easier to build your SuiteScript with NetSuite applicable JavaScript Modules Col
 
 ### List of modules
 
+- oauth1
+
 - xml2json
 
 ### License
